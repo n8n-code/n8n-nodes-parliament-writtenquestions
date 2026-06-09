@@ -15,8 +15,8 @@ export const writtenStatementsDescription: INodeProperties[] = [
 			},
 			"options": [
 				{
-					"name": "GET Api Writtenstatements Statements",
-					"value": "GET Api Writtenstatements Statements",
+					"name": "GET API Writtenstatements Statements",
+					"value": "GET API Writtenstatements Statements",
 					"action": "Returns a list of written statements",
 					"description": "Returns a list of written statements",
 					"routing": {
@@ -43,7 +43,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -68,7 +68,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -93,7 +93,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -118,7 +118,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -143,7 +143,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -168,7 +168,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -193,7 +193,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -232,7 +232,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -257,7 +257,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -282,7 +282,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}
@@ -307,7 +307,7 @@ export const writtenStatementsDescription: INodeProperties[] = [
 						"Written Statements"
 					],
 					"operation": [
-						"GET Api Writtenstatements Statements"
+						"GET API Writtenstatements Statements"
 					]
 				}
 			}

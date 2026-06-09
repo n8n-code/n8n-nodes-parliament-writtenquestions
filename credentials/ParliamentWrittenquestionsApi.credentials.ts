@@ -8,7 +8,7 @@ import type {
 export class ParliamentWrittenquestionsApi implements ICredentialType {
 	name = 'N8nDevParliamentWrittenquestionsApi';
 
-	displayName = 'parliament-writtenquestions API';
+	displayName = 'Parliament Writtenquestions API';
 
 	icon: Icon = { light: 'file:../nodes/ParliamentWrittenquestions/parliament-writtenquestions.svg', dark: 'file:../nodes/ParliamentWrittenquestions/parliament-writtenquestions.dark.svg' };
 
@@ -22,7 +22,7 @@ export class ParliamentWrittenquestionsApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'https://api.example.com',
-			description: 'The base URL of your parliament-writtenquestions API server',
+			description: 'The base URL of your Parliament Writtenquestions API server',
 		},
 		{
 			displayName: 'API Key',

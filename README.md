@@ -53,11 +53,26 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Daily Reports | Get returns a list of daily reports |
-| Written Questions | Get returns a list of written questions |
-| Written Statements | Get returns a list of written statements |
+<details>
+<summary><b>Daily Reports</b> (1 operations)</summary>
+
+- Get Returns a list of daily reports
+
+</details>
+
+<details>
+<summary><b>Written Questions</b> (1 operations)</summary>
+
+- Get Returns a list of written questions
+
+</details>
+
+<details>
+<summary><b>Written Statements</b> (1 operations)</summary>
+
+- Get Returns a list of written statements
+
+</details>
 
 ---
 

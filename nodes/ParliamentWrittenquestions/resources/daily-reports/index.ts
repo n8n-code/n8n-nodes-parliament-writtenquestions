@@ -15,8 +15,8 @@ export const dailyReportsDescription: INodeProperties[] = [
 			},
 			"options": [
 				{
-					"name": "GET Api Dailyreports Dailyreports",
-					"value": "GET Api Dailyreports Dailyreports",
+					"name": "GET API Dailyreports Dailyreports",
+					"value": "GET API Dailyreports Dailyreports",
 					"action": "Returns a list of daily reports",
 					"description": "Returns a list of daily reports",
 					"routing": {
@@ -43,7 +43,7 @@ export const dailyReportsDescription: INodeProperties[] = [
 						"Daily Reports"
 					],
 					"operation": [
-						"GET Api Dailyreports Dailyreports"
+						"GET API Dailyreports Dailyreports"
 					]
 				}
 			}
@@ -68,7 +68,7 @@ export const dailyReportsDescription: INodeProperties[] = [
 						"Daily Reports"
 					],
 					"operation": [
-						"GET Api Dailyreports Dailyreports"
+						"GET API Dailyreports Dailyreports"
 					]
 				}
 			}
@@ -93,7 +93,7 @@ export const dailyReportsDescription: INodeProperties[] = [
 						"Daily Reports"
 					],
 					"operation": [
-						"GET Api Dailyreports Dailyreports"
+						"GET API Dailyreports Dailyreports"
 					]
 				}
 			}
@@ -132,7 +132,7 @@ export const dailyReportsDescription: INodeProperties[] = [
 						"Daily Reports"
 					],
 					"operation": [
-						"GET Api Dailyreports Dailyreports"
+						"GET API Dailyreports Dailyreports"
 					]
 				}
 			}
@@ -157,7 +157,7 @@ export const dailyReportsDescription: INodeProperties[] = [
 						"Daily Reports"
 					],
 					"operation": [
-						"GET Api Dailyreports Dailyreports"
+						"GET API Dailyreports Dailyreports"
 					]
 				}
 			}
@@ -182,7 +182,7 @@ export const dailyReportsDescription: INodeProperties[] = [
 						"Daily Reports"
 					],
 					"operation": [
-						"GET Api Dailyreports Dailyreports"
+						"GET API Dailyreports Dailyreports"
 					]
 				}
 			}

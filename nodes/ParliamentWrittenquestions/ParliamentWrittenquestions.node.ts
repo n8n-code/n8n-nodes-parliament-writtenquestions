@@ -5,14 +5,14 @@ import { writtenStatementsDescription } from './resources/written-statements';
 
 export class ParliamentWrittenquestions implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'parliament-writtenquestions',
+		displayName: 'Parliament Writtenquestions',
 		name: 'N8nDevParliamentWrittenquestions',
 		icon: { light: 'file:./parliament-writtenquestions.svg', dark: 'file:./parliament-writtenquestions.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Data around written questions and answers, as well as written ministerial statements',
-		defaults: { name: 'parliament-writtenquestions' },
+		defaults: { name: 'Parliament Writtenquestions' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

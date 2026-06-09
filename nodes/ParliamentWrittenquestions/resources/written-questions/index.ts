@@ -15,8 +15,8 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 			},
 			"options": [
 				{
-					"name": "GET Api Writtenquestions Questions",
-					"value": "GET Api Writtenquestions Questions",
+					"name": "GET API Writtenquestions Questions",
+					"value": "GET API Writtenquestions Questions",
 					"action": "Returns a list of written questions",
 					"description": "Returns a list of written questions",
 					"routing": {
@@ -43,13 +43,13 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Asking Member Id",
+			"displayName": "Asking Member ID",
 			"name": "askingMemberId",
 			"description": "Written questions asked by member with member ID specified",
 			"default": 0,
@@ -68,13 +68,13 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Answering Member Id",
+			"displayName": "Answering Member ID",
 			"name": "answeringMemberId",
 			"description": "Written questions answered by member with member ID specified",
 			"default": 0,
@@ -93,7 +93,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -118,7 +118,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -143,7 +143,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -182,7 +182,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -207,7 +207,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -232,7 +232,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -271,7 +271,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -296,7 +296,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -321,7 +321,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -346,7 +346,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -371,7 +371,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -396,7 +396,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -421,7 +421,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -446,7 +446,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -471,7 +471,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -510,7 +510,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -535,7 +535,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
@@ -560,7 +560,7 @@ export const writtenQuestionsDescription: INodeProperties[] = [
 						"Written Questions"
 					],
 					"operation": [
-						"GET Api Writtenquestions Questions"
+						"GET API Writtenquestions Questions"
 					]
 				}
 			}
